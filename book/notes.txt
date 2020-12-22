@@ -1,0 +1,7 @@
+2020-22-12
+----------
+
+Version of rustc currently used: 1.48.0
+
+References are annotated with '&' on the call site as well.
+
